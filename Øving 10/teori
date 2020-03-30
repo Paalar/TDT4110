@@ -1,0 +1,21 @@
+a) Hva er en algoritme?
+En algoritme er prosess som sier steg for steg hva som skal skje.
+
+b) Hva vil det si at en algoritme har kjøre tid på O(n^2)? Nevn to eksempler på slike algoritmer.
+Den vil ha en kjøretid på minst k1 * n^2 eller maks k2 * n^2 . Men fordi den kjører n*n ganger betyr det at den er mye tregere enn
+en algoritme som kjører n ganger. Bubble sort, insertion sort
+
+c) Hva er en rekursiv algoritme, og hva skiller disse fra en iterativ algoritme?
+En rekursiv algortime er en algortime som kaller på seg selv mens en iterativ algortime vil bruke løkker.
+
+d) Hvilke systemutviklingsmodeller finnes? Hva er forskjellen mellom de?
+Vanfoss modellen: Man planlegger alt før man faktisk begynner systemutviklingen
+Incremental modellen: man begynner med å utvikle, tar in informasjon og feedback fra brukere og utvikler den mer og mer for hver gang.
+Integrasjon og konfigurasjon: Noen vet om en kode som likner på den man trenger, så man bruker den, men endrer på den måten man trenger
+
+e) Hva definerer en smidig(agile) utviklingsprosess?
+Det er en hvis prinsipper der man skal være fleksibel til problemer som oppstår og fortsette å utvikle selv om man er "ferdig" med
+produktet.
+
+f) Hva er en kravspesifikasjon?
+Være spesifikk på krav?

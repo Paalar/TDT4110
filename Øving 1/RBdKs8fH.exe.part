@@ -1,0 +1,11 @@
+import math
+
+teth = int(input("Hvor stor er lengen \'h\' til tetraeden?\n"))
+
+teta = (3/(math.sqrt(6))*teth)
+tetA = (math.sqrt(3)*(teta)**2)
+tetV = ((math.sqrt(2)*(teta)**3)/12)
+
+
+print("Overflatearealet til tetraeden er da = ", "%.4f" % tetA)
+print("Volumet til tetraeden er = ", "%.4f" % tetV)

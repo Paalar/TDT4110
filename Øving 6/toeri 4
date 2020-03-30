@@ -1,0 +1,23 @@
+1) Hva het forgjengeren til et vi i dag akller "internet", og hvem startet arbeidet med dette?
+Forgjengeren het ARPANET som står for Advances Reaserch Projects Agency Network. Det var ARPA som var en del av det amerikanske
+forsvars departementet.
+
+2) Hvordan fungerer paritet som feildeteksjonsmetode?
+Når man ser på en ASCII tekst. Så ser den på de 7 tallene ASCII verdiene og ser på om den har et oddetall 1ere eller 0ere og legger på en 1
+eller 0 så at det blir partall null og enere. Så hvis mottakerene ser ett oddetall av 1 eller 0 vil den spørre om informasjonen på nytt.
+
+3) Hva er forskjellen på "circuit-switching" hva "packet-switching"
+- Circuit switching: Det blir en "connection" når en circuit blir skrudd på. Da blir den brukt, men når det ikke er i bruk bytter den
+circuit, slik at det virker som den er av.
+- Packet switching: En sender deler opp en "melding" i packets. Etter en sender sender en packet lar den andre sendere sende packeten,
+før senderen kan snede en underliggende packet.
+
+4)  Hvilke fem (protokoll)-lag brukes ofte for å forklare de forskjellige funskjonene til internettet
+Application
+Transport
+Internet
+Data Link
+Physical
+
+5) Hva er oppgaven til rutere (routers) i nettverk?
+- Rutere er dedikerte til å flette sammen forskjellige nettverk. Rutere kan connecte til nettverk som bruker annen teknologi.

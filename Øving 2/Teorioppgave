@@ -1,0 +1,33 @@
+a)
+RAM, Random Access Memory - er den viktigste formen for primærlagring. Her blir alt av kode og programmer kjørt gjennom og generelt styre datamaskinen. Andre former er GPU - Graphical Processing Unit.
+Forskjellen mellom RAM og sekundærlagring er at alt minne som blir lagret i primærlagringen forsvinner når man skrur av datamaskinen.
+sekundærlagring - HDD, SSD, Minnepenn.
+
+b)
+Forskjellen på permanent og volatilt er at
+Permanent minne lagres for senere bruk, altså SSD eller HDD.
+Volatilt minne er RAM fordi når datamaskinen skrur seg av vil alt minnet som ble brukt slettes.
+
+
+Forskjellen på tilfeldig og sekvensiell aksess er at
+Sekvensiell aksess er at det blir lest fra f.eks. topp til bunn som en kasett/kasettspiller
+Tilfedlig aksess er RAM. Altså det minnet som blir lagret vil bli lagret på et tilfeldig sted i minnet.
+c)
+Silisium er veldig lett å jobbe med for når man bruker det i chipper så kan silisium chippen være så kompleks som man ønsker den skal være. Og det vil ikke påvirke kostnadene.
+Å printe en silikon chip vil koste likemye uansett hvor kompleks den er.
+silisum er også veldig varme resistent og er det stoffet det finnes nest mest av på hele jorden utenom oksygen.
+
+d)
+Datamaskinen lagrer bilder i pixeler, der en pixel er 3 bytes - Rød, grønn, blå (RGB).
+For å behandle lyd bruker man en metode kalt ADC-CoDec-DAC. Som står for
+Anolog-til-digital-converter (ADC) some tar den kontinuerlige signalet fra analogen og gjør den til binære tall.
+Disse tallene er da komprimert og lagret i minnet (Co). (Dec) står for å dekomprimere som man må gjøre for å spille av lyden.
+(DAC) - er Digital-til-analog converter, som overfører lyden digitalt til høytalerne.
+
+e)
+32 000 * 8 = 256 000.
+256 000 / 40 = 6400 bits i sekundet. 
+
+
+f)
+OS - Operativ System, er det som gjør datamaskinen spennende. OS er det programmet som skal kjøre apper, dele minnet med flere apper, finne filer og andre oppgaver.

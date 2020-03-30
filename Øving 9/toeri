@@ -1,0 +1,24 @@
+a) Hvordan behandler TCP en tapt pakke (Lost packets)?
+- Når en packet blir sendt, vil avsenderen sette en timer som skal bli brukt til å sjekke om den må sende packeten på nytt eller ikke
+mottakeren, når den mottar en packet, vil da sende senderen en ACK acknowledgement svar til senderen. Når den mottar slutter
+timeren. Hvis ikke senderen mottar en ACK vil den sende packeten på nytt.
+
+b) Hvilke tre egenskaper er det vanligst å bruke når man ser på hvor god ytelse et nettverk har?
+Latency, capacity, variability.
+Latency er hvor lang tid det tar å overføre informasjon.
+Capacity er hvor mye data som kan bli overført om gangen.
+Variability er endringen på latencien og hvor lenge endringen varer.
+
+c) Forklar enkelt hvordan RSA-kryptering fungerer og hva en public og private key er. Det trengs ikke noen matematisk forklaring, kun en overfladisk beskrivelse på noen få setninger.
+RSA kryptering
+Public key - Den er gitt åpent slit at alle kan se denne brukerens key.
+private key - med private key så er det to enheter som deler keyen som blir brukt til koding og dekoding. Den er privat så de to
+enhtene kan hemmelig sende informasjon. Men en tredje part kan også få koden og ta inn informasjonen.
+
+d) Hva står VPN for og hva er det?
+Virtual Private Network. Det er en service som endrer på IP adressen slik at servere som leser ip adressen tror at den er i et annet
+sted. F.eks. ekte ip er i norge, men med vpn så endrer man den til en amerikansk en gjennom en server i USA.
+
+e) Hva er et DDos-angrep?
+- DDoS står for Distributed Denial of Service. Meningen er å hindre en service å fungere ved å gi den veldig mange requests om
+gangen, gjerne av bots, slik at den blir overloadet og krasjer.
